@@ -8,7 +8,7 @@ class Bot(Client):
         "vj chatgpt bot",
          api_id=API_ID,
          api_hash=API_HASH,
-         bot_token=" 7144381603:AAEhNCp4SkhBHijzcQ15eMOobzcgY9b7Ano",
+         bot_token="7144381603:AAEhNCp4SkhBHijzcQ15eMOobzcgY9b7Ano",
          plugins=dict(root="plugins"),
          workers=50,
          sleep_threshold=10
