@@ -5,7 +5,7 @@ class Bot(Client):
 
     def __init__(self):
         super().__init__(
-        "vj chatgpt bot",
+        "aira ai chat ",
          api_id=API_ID,
          api_hash=API_HASH,
          bot_token="7144381603:AAEhNCp4SkhBHijzcQ15eMOobzcgY9b7Ano",
